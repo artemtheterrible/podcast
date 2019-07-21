@@ -1,7 +1,5 @@
 import service
 
-#testing
-
 def main():
     print("Welcome to the talk python info downloader")
     print()
